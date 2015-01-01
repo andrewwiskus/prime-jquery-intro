@@ -16,3 +16,12 @@ h1 {
 .clicked {
   border-color: red;
 }
+
+.heading {
+  float: left;
+  padding-left: 10px;
+}
+
+.heading1 {
+  padding-left: 0;
+}
